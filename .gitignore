@@ -1,0 +1,10 @@
+# direnv
+.envrc
+
+# pyenv
+.python-version
+
+# IDEs
+.vscode/
+
+
